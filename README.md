@@ -13,7 +13,7 @@
 #### Contributions to this repository are welcome! If you find any errors, have suggestions for improvements, or want to add new content, feel free to submit a pull request.
 
 ### Resources:
-#### PyTorch Official Documentation
+#### PyTorch Official Documentation 
 #### PyTorch Tutorials
 
 #### Happy learning!
